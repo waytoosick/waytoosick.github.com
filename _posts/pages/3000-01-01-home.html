@@ -35,3 +35,54 @@
 	</div>
 </div>
 
+
+<div class="content-block intro" style="background-image:url(/img/ui/intro.jpg);">
+	<div class="group">
+		<div class="item span-24">&nbsp;</div>
+	</div>
+</div>
+
+
+
+{% for post in site.categories['featured'] %} 
+
+<!--BLING-->
+<div class="content-block record">
+	<div class="group">
+		<div class="item skip-5 span-14">
+			{% if post.postimg %}
+			{% if post.chill_link %}<a href="{{ post.chill_link }}">{% endif %}<img class="record-art" src="/img/records/{{ post.postimg }}" />{% if post.chill_link %}</a>{% endif %}
+			{% endif %}
+		</div>
+	</div>
+</div>
+
+{% endfor %} 
+
+
+<div class="content-block twitter" style="background-image:url(/img/ui/twitter.jpg);">
+	<div class="group">
+		<div class="item span-24">&nbsp;</div>
+	</div>
+</div>
+
+
+{% for post in site.categories['normal'] %} 
+
+<div class="content-block record">
+	<div class="group">
+		<div class="item skip-5 span-14">
+			{% if post.postimg %}
+			{% if post.chill_link %}<a href="{{ post.chill_link }}">{% endif %}<img class="record-art" src="/img/records/{{ post.postimg }}" />{% if post.chill_link %}</a>{% endif %}
+			{% endif %}
+		</div>
+	</div>
+</div>
+
+{% endfor %} 
+
+<div class="content-block merch" style="background-image:url(/img/ui/merch.jpg);">
+	<div class="group">
+		<div class="item span-24">&nbsp;</div>
+	</div>
+</div>

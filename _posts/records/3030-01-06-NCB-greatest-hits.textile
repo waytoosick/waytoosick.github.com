@@ -2,7 +2,8 @@
   layout: post
   title: NCB &amp; Friends - Greatest Hits
   permalink: records/ncb-greatest-hits
-  categories: [normal]
+  categories: [ normal ]
   postimg: ncb-greatest-hits.jpg
+  chill_link: https://soundcloud.com/waytoosick/sets/ncb-friends-greatest-hits
 ---
 

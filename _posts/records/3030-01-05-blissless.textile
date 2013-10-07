@@ -2,7 +2,8 @@
   layout: post
   title: DOT BOMB - Blissless
   permalink: records/blissless
-  categories: [normal]
+  categories: [ normal ]
   postimg: blissless.jpg
+  chill_link: http://bundles.bittorrent.com/waytoosick/
 ---
 

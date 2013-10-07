@@ -2,7 +2,8 @@
   layout: post
   title: NCB - This is Lo-Fi
   permalink: records/this-is-lo-fi
-  categories: [normal]
+  categories: [ normal ]
   postimg: this-is-lo-fi.jpg
+  chill_link: https://soundcloud.com/waytoosick/sets/this-is-lo-fi
 ---
 

@@ -1,8 +1,9 @@
 ---
   layout: post
   title: NCB - Sals Paradise BLUE
-  permalink: records/sals-paradis-blue
-  categories: [normal]
-  postimg: sals-paradis-blue.jpg
+  permalink: records/sals-paradise-blue
+  categories: [ normal ]
+  postimg: sals-paradise-blue.jpg
+  chill_link: http://bundles.bittorrent.com/waytoosick/
 ---
 

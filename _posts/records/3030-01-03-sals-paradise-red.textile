@@ -1,8 +1,9 @@
 ---
   layout: post
   title: NCB - Sals Paradise RED
-  permalink: records/sals-paradis-red
-  categories: [normal]
-  postimg: sals-paradis-red.jpg
+  permalink: records/sals-paradise-red
+  categories: [ normal ]
+  postimg: sals-paradise-red.jpg
+  chill_link: http://bundles.bittorrent.com/waytoosick/
 ---
 

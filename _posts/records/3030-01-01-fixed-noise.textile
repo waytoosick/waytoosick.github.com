@@ -2,7 +2,8 @@
   layout: post
   title: NCB - Fixed Noise
   permalink: records/fixed-noise
-  categories: [featured]
+  categories: [ featured ]
   postimg: fixed-noise.jpg
+  chill_link: http://bundles.bittorrent.com/waytoosick/
 ---
 
