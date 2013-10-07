@@ -1,0 +1,7 @@
+---
+  layout: post
+  title: NCB - Sals Paradise 3D
+  permalink: records/sals-paradis-3d
+  categories: [normal]
+  postimg: sals-paradis-3d.jpg
+---

@@ -1,0 +1,8 @@
+---
+  layout: post
+  title: NCB &amp; Friends - Greatest Hits
+  permalink: records/ncb-greatest-hits
+  categories: [normal]
+  postimg: ncb-greatest-hits.jpg
+---
+

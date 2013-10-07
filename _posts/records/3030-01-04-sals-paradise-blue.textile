@@ -1,0 +1,8 @@
+---
+  layout: post
+  title: NCB - Sals Paradise BLUE
+  permalink: records/sals-paradis-blue
+  categories: [normal]
+  postimg: sals-paradis-blue.jpg
+---
+

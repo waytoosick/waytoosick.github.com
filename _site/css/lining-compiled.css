@@ -1,0 +1,233 @@
+/*
+
+  /) ,           /)         ,    /)                                
+ /    __    _  _(/   _   _   _/_(/      _   _   _   _              
+(/__(_/ (__(/_(_(_   (_(/ _(_(__/ )_   /_)_(_(_/_)_/_)_ o   o   o  
+
+http://sass-lang.com/
+ 
+
+*/
+/*heading (24-col liquid layout)
+----------------------------------*/
+.fullscreen {
+  width: 100%;
+  display: block;
+  float: left; }
+  .fullscreen .group {
+    width: 100%;
+    margin: 0 auto; }
+    .fullscreen .group .item {
+      float: left;
+      height: 100%;
+      width: 4.167%; }
+
+.fullscreen .group .span-1 {
+  width: 4.167%; }
+.fullscreen .group .span-2 {
+  width: 8.333%; }
+.fullscreen .group .span-3 {
+  width: 12.5%; }
+.fullscreen .group .span-4 {
+  width: 16.667%; }
+.fullscreen .group .span-5 {
+  width: 20.833%; }
+.fullscreen .group .span-6 {
+  width: 25%; }
+.fullscreen .group .span-7 {
+  width: 29.167%; }
+.fullscreen .group .span-8 {
+  width: 33.333%; }
+.fullscreen .group .span-9 {
+  width: 37.5%; }
+.fullscreen .group .span-10 {
+  width: 41.667%; }
+.fullscreen .group .span-11 {
+  width: 45.833%; }
+.fullscreen .group .span-12 {
+  width: 50%; }
+.fullscreen .group .span-13 {
+  width: 54.167%; }
+.fullscreen .group .span-14 {
+  width: 58.333%; }
+.fullscreen .group .span-15 {
+  width: 62.5%; }
+.fullscreen .group .span-16 {
+  width: 66.667%; }
+.fullscreen .group .span-17 {
+  width: 70.833%; }
+.fullscreen .group .span-18 {
+  width: 75%; }
+.fullscreen .group .span-19 {
+  width: 79.167%; }
+.fullscreen .group .span-20 {
+  width: 83.333%; }
+.fullscreen .group .span-21 {
+  width: 87.5%; }
+.fullscreen .group .span-22 {
+  width: 91.667%; }
+.fullscreen .group .span-23 {
+  width: 95.833%; }
+.fullscreen .group .span-24 {
+  width: 100%; }
+
+.fullscreen .group .skip-1 {
+  margin-left: 4.167%; }
+.fullscreen .group .skip-2 {
+  margin-left: 8.333%; }
+.fullscreen .group .skip-3 {
+  margin-left: 12.5%; }
+.fullscreen .group .skip-4 {
+  margin-left: 16.667%; }
+.fullscreen .group .skip-5 {
+  margin-left: 20.833%; }
+.fullscreen .group .skip-6 {
+  margin-left: 25%; }
+.fullscreen .group .skip-7 {
+  margin-left: 29.167%; }
+.fullscreen .group .skip-8 {
+  margin-left: 33.333%; }
+.fullscreen .group .skip-9 {
+  margin-left: 37.5%; }
+.fullscreen .group .skip-10 {
+  margin-left: 41.667%; }
+.fullscreen .group .skip-11 {
+  margin-left: 45.833%; }
+.fullscreen .group .skip-12 {
+  margin-left: 50%; }
+.fullscreen .group .skip-13 {
+  margin-left: 54.167%; }
+.fullscreen .group .skip-14 {
+  margin-left: 58.333%; }
+.fullscreen .group .skip-15 {
+  margin-left: 62.5%; }
+.fullscreen .group .skip-16 {
+  margin-left: 66.667%; }
+.fullscreen .group .skip-17 {
+  margin-left: 70.833%; }
+.fullscreen .group .skip-18 {
+  margin-left: 75%; }
+.fullscreen .group .skip-19 {
+  margin-left: 79.167%; }
+.fullscreen .group .skip-20 {
+  margin-left: 83.333%; }
+.fullscreen .group .skip-21 {
+  margin-left: 87.5%; }
+.fullscreen .group .skip-22 {
+  margin-left: 91.667%; }
+.fullscreen .group .skip-23 {
+  margin-left: 95.833%; }
+.fullscreen .group .skip-24 {
+  margin-left: 100%; }
+
+@media screen and (min-width: 770px) {
+  .content-block {
+    width: 100%;
+    display: block;
+    float: left; }
+    .content-block .group {
+      width: 960px;
+      margin: 0 auto; }
+      .content-block .group .item {
+        float: left;
+        height: 100%;
+        width: 40px; }
+
+  .content-block .group .span-1 {
+    width: 40px; }
+  .content-block .group .span-2 {
+    width: 80px; }
+  .content-block .group .span-3 {
+    width: 120px; }
+  .content-block .group .span-4 {
+    width: 160px; }
+  .content-block .group .span-5 {
+    width: 200px; }
+  .content-block .group .span-6 {
+    width: 240px; }
+  .content-block .group .span-7 {
+    width: 280px; }
+  .content-block .group .span-8 {
+    width: 320px; }
+  .content-block .group .span-9 {
+    width: 360px; }
+  .content-block .group .span-10 {
+    width: 400px; }
+  .content-block .group .span-11 {
+    width: 440px; }
+  .content-block .group .span-12 {
+    width: 480px; }
+  .content-block .group .span-13 {
+    width: 520px; }
+  .content-block .group .span-14 {
+    width: 560px; }
+  .content-block .group .span-15 {
+    width: 600px; }
+  .content-block .group .span-16 {
+    width: 640px; }
+  .content-block .group .span-17 {
+    width: 680px; }
+  .content-block .group .span-18 {
+    width: 720px; }
+  .content-block .group .span-19 {
+    width: 760px; }
+  .content-block .group .span-20 {
+    width: 800px; }
+  .content-block .group .span-21 {
+    width: 840px; }
+  .content-block .group .span-22 {
+    width: 880px; }
+  .content-block .group .span-23 {
+    width: 920px; }
+  .content-block .group .span-24 {
+    width: 960px; }
+
+  .content-block .group .skip-1 {
+    margin-left: 40px; }
+  .content-block .group .skip-2 {
+    margin-left: 80px; }
+  .content-block .group .skip-3 {
+    margin-left: 120px; }
+  .content-block .group .skip-4 {
+    margin-left: 160px; }
+  .content-block .group .skip-5 {
+    margin-left: 200px; }
+  .content-block .group .skip-6 {
+    margin-left: 240px; }
+  .content-block .group .skip-7 {
+    margin-left: 280px; }
+  .content-block .group .skip-8 {
+    margin-left: 320px; }
+  .content-block .group .skip-9 {
+    margin-left: 360px; }
+  .content-block .group .skip-10 {
+    margin-left: 400px; }
+  .content-block .group .skip-11 {
+    margin-left: 440px; }
+  .content-block .group .skip-12 {
+    margin-left: 480px; }
+  .content-block .group .skip-13 {
+    margin-left: 520px; }
+  .content-block .group .skip-14 {
+    margin-left: 560px; }
+  .content-block .group .skip-15 {
+    margin-left: 600px; }
+  .content-block .group .skip-16 {
+    margin-left: 640px; }
+  .content-block .group .skip-17 {
+    margin-left: 680px; }
+  .content-block .group .skip-18 {
+    margin-left: 720px; }
+  .content-block .group .skip-19 {
+    margin-left: 760px; }
+  .content-block .group .skip-20 {
+    margin-left: 800px; }
+  .content-block .group .skip-21 {
+    margin-left: 840px; }
+  .content-block .group .skip-22 {
+    margin-left: 880px; }
+  .content-block .group .skip-23 {
+    margin-left: 920px; }
+  .content-block .group .skip-24 {
+    margin-left: 960px; } }
+/*end of 770px*/

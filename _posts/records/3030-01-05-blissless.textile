@@ -1,0 +1,8 @@
+---
+  layout: post
+  title: DOT BOMB - Blissless
+  permalink: records/blissless
+  categories: [normal]
+  postimg: blissless.jpg
+---
+

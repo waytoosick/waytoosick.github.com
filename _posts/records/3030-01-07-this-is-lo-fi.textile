@@ -1,0 +1,8 @@
+---
+  layout: post
+  title: NCB - This is Lo-Fi
+  permalink: records/this-is-lo-fi
+  categories: [normal]
+  postimg: this-is-lo-fi.jpg
+---
+
