@@ -9,7 +9,7 @@
 
 $(document).ready(function(){
 $.getJSON( "http://waytoosick.com/rcrds-api/feed.json", function( data ) {
-  alert(data);
+  alert(data.title);
   var items = [];
   $.each( data, function( key, val ) {
     items.push( "<li id='" + key + "'>" + val + "</li>" );
