@@ -8,8 +8,8 @@
 
 
 $(document).ready(function(){
-$.getJSON( "http://waytoosick.com/rcrds-api/feed.json", function( data ) {
-  alert(data.title);
+$.getJSON( "http://waytoosick.com/rcrds-api/nowhite.json", function( data ) {
+  alert(data.name);
   var items = [];
   $.each( data, function( key, val ) {
     items.push( "<li id='" + key + "'>" + val + "</li>" );
