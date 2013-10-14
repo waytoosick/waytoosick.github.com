@@ -1,9 +1,0 @@
----
-  layout: api
-  title: NCB - Fixed Noise
-  permalink: records/fixed-noise/api
-  categories: [ featured ]
-  postimg: fixed-noise.jpg
-  chill_link: http://bundles.bittorrent.com/waytoosick/
----
-
