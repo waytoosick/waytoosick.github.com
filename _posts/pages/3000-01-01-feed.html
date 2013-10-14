@@ -3,4 +3,15 @@
   title: WAY TOO SICK RCRDS -- Music From the Future
   permalink: /feed
 ---
-{"featured":[{% for post in site.categories['featured'] %}{"title":"{{ post.title }}","postimg":"/img/records/{{ post.postimg }}","chill_link":"{{ post.chill_link }}"}{% endfor %} ]}{"normal":[{% for post in site.categories['normal'] %}{"title":"{{ post.title }}","postimg":"/img/records/{{ post.postimg }}","chill_link":"{{ post.chill_link }}"}{% endfor %}]}
+{ "records":[{"featured":[
+{% for post in site.categories['featured'] %}
+{"title":"{{ post.title }}","postimg":"/img/records/{{ post.postimg }}","chill_link":"{{ post.chill_link }}"},
+{% endfor %}
+{"endcap":"last"}
+]},
+{"normal":[
+{% for post in site.categories['normal'] %}
+{"title":"{{ post.title }}","postimg":"/img/records/{{ post.postimg }}","chill_link":"{{ post.chill_link }}"},
+{% endfor %}
+{"endcap":"last"}
+]}]}
