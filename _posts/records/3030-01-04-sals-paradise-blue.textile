@@ -4,6 +4,6 @@
   permalink: records/sals-paradise-blue
   categories: [ normal ]
   postimg: sals-paradise-blue.jpg
-  chill_link: http://bundles.bittorrent.com/waytoosick/
+  chill_link: http://content.bittorrent.com/bundles/c432b11780c654d94c52ef165e48da69c34ee593dee3e8fbce8a1b7a3361b105/
 ---
 
