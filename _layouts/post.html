@@ -2,12 +2,48 @@
 layout: default
 ---
 
-<div class="content-block record">
+<div class="nav-bar">
+	<div class="group">
+		<div class="item span-2"><a href="/"><img src="/img/ui/way-too-sick-rcrds-100px.jpg" alt="WAY TOO SICK RCRDS" /></a></div>
+		<div class="item span-16">&nbsp;</div>
+		<div class="item span-6 sharing">
+			<!-- Go to www.addthis.com/dashboard to customize your tools -->
+			<div class="addthis_sharing_toolbox"></div>
+			</div>
+		
+	</div>
+</div>
+
+
+<div class="content-block intro" style="background-image:url(/img/records/{{ page.postimg }});">
+	<div class="group">
+		<div class="item span-24">&nbsp;</div>
+	</div>
+</div>
+
+
+
+<div class="content-block">
+	<div class="group" >
+		<div class="item skip-2 span-20"> 
+			
+			
+			{{ content }}
+
+
+		</div>
+	</div>
+</div>
+
+
+
+<div class="content-block foot">
 	<div class="group">
 		<div class="item skip-5 span-14">
 			{% if page.postimg %}
-			{% if page.chill_link %}<a href="{{ page.chill_link }}">{% endif %}<img class="record-art" width="100%" src="/img/records/{{ page.postimg }}" />{% if page.chill_link %}</a>{% endif %}
+		    <img class="record-art" width="100%" src="/img/records/{{ page.postimg }}" />
 			{% endif %}
+
 		</div>
 	</div>
 </div>

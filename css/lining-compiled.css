@@ -20,103 +20,103 @@ http://sass-lang.com/
     .fullscreen .group .item {
       float: left;
       height: 100%;
-      width: 4.167%; }
+      width: 4.16667%; }
 
 .fullscreen .group .span-1 {
-  width: 4.167%; }
+  width: 4.16667%; }
 .fullscreen .group .span-2 {
-  width: 8.333%; }
+  width: 8.33333%; }
 .fullscreen .group .span-3 {
   width: 12.5%; }
 .fullscreen .group .span-4 {
-  width: 16.667%; }
+  width: 16.66667%; }
 .fullscreen .group .span-5 {
-  width: 20.833%; }
+  width: 20.83333%; }
 .fullscreen .group .span-6 {
   width: 25%; }
 .fullscreen .group .span-7 {
-  width: 29.167%; }
+  width: 29.16667%; }
 .fullscreen .group .span-8 {
-  width: 33.333%; }
+  width: 33.33333%; }
 .fullscreen .group .span-9 {
   width: 37.5%; }
 .fullscreen .group .span-10 {
-  width: 41.667%; }
+  width: 41.66667%; }
 .fullscreen .group .span-11 {
-  width: 45.833%; }
+  width: 45.83333%; }
 .fullscreen .group .span-12 {
   width: 50%; }
 .fullscreen .group .span-13 {
-  width: 54.167%; }
+  width: 54.16667%; }
 .fullscreen .group .span-14 {
-  width: 58.333%; }
+  width: 58.33333%; }
 .fullscreen .group .span-15 {
   width: 62.5%; }
 .fullscreen .group .span-16 {
-  width: 66.667%; }
+  width: 66.66667%; }
 .fullscreen .group .span-17 {
-  width: 70.833%; }
+  width: 70.83333%; }
 .fullscreen .group .span-18 {
   width: 75%; }
 .fullscreen .group .span-19 {
-  width: 79.167%; }
+  width: 79.16667%; }
 .fullscreen .group .span-20 {
-  width: 83.333%; }
+  width: 83.33333%; }
 .fullscreen .group .span-21 {
   width: 87.5%; }
 .fullscreen .group .span-22 {
-  width: 91.667%; }
+  width: 91.66667%; }
 .fullscreen .group .span-23 {
-  width: 95.833%; }
+  width: 95.83333%; }
 .fullscreen .group .span-24 {
   width: 100%; }
 
 .fullscreen .group .skip-1 {
-  margin-left: 4.167%; }
+  margin-left: 4.16667%; }
 .fullscreen .group .skip-2 {
-  margin-left: 8.333%; }
+  margin-left: 8.33333%; }
 .fullscreen .group .skip-3 {
   margin-left: 12.5%; }
 .fullscreen .group .skip-4 {
-  margin-left: 16.667%; }
+  margin-left: 16.66667%; }
 .fullscreen .group .skip-5 {
-  margin-left: 20.833%; }
+  margin-left: 20.83333%; }
 .fullscreen .group .skip-6 {
   margin-left: 25%; }
 .fullscreen .group .skip-7 {
-  margin-left: 29.167%; }
+  margin-left: 29.16667%; }
 .fullscreen .group .skip-8 {
-  margin-left: 33.333%; }
+  margin-left: 33.33333%; }
 .fullscreen .group .skip-9 {
   margin-left: 37.5%; }
 .fullscreen .group .skip-10 {
-  margin-left: 41.667%; }
+  margin-left: 41.66667%; }
 .fullscreen .group .skip-11 {
-  margin-left: 45.833%; }
+  margin-left: 45.83333%; }
 .fullscreen .group .skip-12 {
   margin-left: 50%; }
 .fullscreen .group .skip-13 {
-  margin-left: 54.167%; }
+  margin-left: 54.16667%; }
 .fullscreen .group .skip-14 {
-  margin-left: 58.333%; }
+  margin-left: 58.33333%; }
 .fullscreen .group .skip-15 {
   margin-left: 62.5%; }
 .fullscreen .group .skip-16 {
-  margin-left: 66.667%; }
+  margin-left: 66.66667%; }
 .fullscreen .group .skip-17 {
-  margin-left: 70.833%; }
+  margin-left: 70.83333%; }
 .fullscreen .group .skip-18 {
   margin-left: 75%; }
 .fullscreen .group .skip-19 {
-  margin-left: 79.167%; }
+  margin-left: 79.16667%; }
 .fullscreen .group .skip-20 {
-  margin-left: 83.333%; }
+  margin-left: 83.33333%; }
 .fullscreen .group .skip-21 {
   margin-left: 87.5%; }
 .fullscreen .group .skip-22 {
-  margin-left: 91.667%; }
+  margin-left: 91.66667%; }
 .fullscreen .group .skip-23 {
-  margin-left: 95.833%; }
+  margin-left: 95.83333%; }
 .fullscreen .group .skip-24 {
   margin-left: 100%; }
 
@@ -229,5 +229,115 @@ http://sass-lang.com/
   .content-block .group .skip-23 {
     margin-left: 920px; }
   .content-block .group .skip-24 {
-    margin-left: 960px; } }
+    margin-left: 960px; }
+
+  .nav-bar {
+    width: 100%;
+    display: block;
+    float: left; }
+    .nav-bar .group {
+      width: 100%;
+      margin: 0 auto; }
+      .nav-bar .group .item {
+        float: left;
+        height: 100%;
+        width: 4.16667%; }
+
+  .nav-bar .group .span-1 {
+    width: 4.16667%; }
+  .nav-bar .group .span-2 {
+    width: 8.33333%; }
+  .nav-bar .group .span-3 {
+    width: 12.5%; }
+  .nav-bar .group .span-4 {
+    width: 16.66667%; }
+  .nav-bar .group .span-5 {
+    width: 20.83333%; }
+  .nav-bar .group .span-6 {
+    width: 25%; }
+  .nav-bar .group .span-7 {
+    width: 29.16667%; }
+  .nav-bar .group .span-8 {
+    width: 33.33333%; }
+  .nav-bar .group .span-9 {
+    width: 37.5%; }
+  .nav-bar .group .span-10 {
+    width: 41.66667%; }
+  .nav-bar .group .span-11 {
+    width: 45.83333%; }
+  .nav-bar .group .span-12 {
+    width: 50%; }
+  .nav-bar .group .span-13 {
+    width: 54.16667%; }
+  .nav-bar .group .span-14 {
+    width: 58.33333%; }
+  .nav-bar .group .span-15 {
+    width: 62.5%; }
+  .nav-bar .group .span-16 {
+    width: 66.66667%; }
+  .nav-bar .group .span-17 {
+    width: 70.83333%; }
+  .nav-bar .group .span-18 {
+    width: 75%; }
+  .nav-bar .group .span-19 {
+    width: 79.16667%; }
+  .nav-bar .group .span-20 {
+    width: 83.33333%; }
+  .nav-bar .group .span-21 {
+    width: 87.5%; }
+  .nav-bar .group .span-22 {
+    width: 91.66667%; }
+  .nav-bar .group .span-23 {
+    width: 95.83333%; }
+  .nav-bar .group .span-24 {
+    width: 100%; }
+
+  .nav-bar .group .skip-1 {
+    margin-left: 4.16667%; }
+  .nav-bar .group .skip-2 {
+    margin-left: 8.33333%; }
+  .nav-bar .group .skip-3 {
+    margin-left: 12.5%; }
+  .nav-bar .group .skip-4 {
+    margin-left: 16.66667%; }
+  .nav-bar .group .skip-5 {
+    margin-left: 20.83333%; }
+  .nav-bar .group .skip-6 {
+    margin-left: 25%; }
+  .nav-bar .group .skip-7 {
+    margin-left: 29.16667%; }
+  .nav-bar .group .skip-8 {
+    margin-left: 33.33333%; }
+  .nav-bar .group .skip-9 {
+    margin-left: 37.5%; }
+  .nav-bar .group .skip-10 {
+    margin-left: 41.66667%; }
+  .nav-bar .group .skip-11 {
+    margin-left: 45.83333%; }
+  .nav-bar .group .skip-12 {
+    margin-left: 50%; }
+  .nav-bar .group .skip-13 {
+    margin-left: 54.16667%; }
+  .nav-bar .group .skip-14 {
+    margin-left: 58.33333%; }
+  .nav-bar .group .skip-15 {
+    margin-left: 62.5%; }
+  .nav-bar .group .skip-16 {
+    margin-left: 66.66667%; }
+  .nav-bar .group .skip-17 {
+    margin-left: 70.83333%; }
+  .nav-bar .group .skip-18 {
+    margin-left: 75%; }
+  .nav-bar .group .skip-19 {
+    margin-left: 79.16667%; }
+  .nav-bar .group .skip-20 {
+    margin-left: 83.33333%; }
+  .nav-bar .group .skip-21 {
+    margin-left: 87.5%; }
+  .nav-bar .group .skip-22 {
+    margin-left: 91.66667%; }
+  .nav-bar .group .skip-23 {
+    margin-left: 95.83333%; }
+  .nav-bar .group .skip-24 {
+    margin-left: 100%; } }
 /*end of 770px*/

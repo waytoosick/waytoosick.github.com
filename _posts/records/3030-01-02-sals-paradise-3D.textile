@@ -6,3 +6,5 @@
   postimg: sals-paradise-3d.jpg
   chill_link: http://www.amazon.com/Sals-Paradise/dp/B003JV4DYG
 ---
+
+This is an article blog entry.

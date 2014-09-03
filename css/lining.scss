@@ -91,6 +91,7 @@ http://sass-lang.com/
 
 @media screen and (min-width: 770px) {
 @include lining-fixed(24, 960px, content-block);
+@include lining-fixed(24, 100%, nav-bar);
 } /*end of 770px*/
 
 
