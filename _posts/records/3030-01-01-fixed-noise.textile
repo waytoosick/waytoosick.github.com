@@ -15,6 +15,4 @@ Fixed Noise is fucking crazy. Recording in several locations, "Fixed Noise" is a
 
 This is the first batch of recordings to include the songs "Beowulf" and "Animal."
 
-The primary purpose of the release was to be bundled together for an early beta BitTorrent bundle release cerca 2011/2012.  
-
-<a href="http://content.bittorrent.com/bundles/c432b11780c654d94c52ef165e48da69c34ee593dee3e8fbce8a1b7a3361b105/">LISTEN</a>
+The primary purpose of the release was to be bundled together for an early beta <a href="http://content.bittorrent.com/bundles/c432b11780c654d94c52ef165e48da69c34ee593dee3e8fbce8a1b7a3361b105/">BitTorrent Bundle</a> release cerca 2011/2012. 
