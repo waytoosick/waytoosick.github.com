@@ -4,6 +4,8 @@
   permalink: records/blissless
   categories: [ normal ]
   postimg: blissless.jpg
-  chill_link: http://content.bittorrent.com/bundles/c432b11780c654d94c52ef165e48da69c34ee593dee3e8fbce8a1b7a3361b105/
+  chill_link: /records/blissless
 ---
 
+
+<a href="http://content.bittorrent.com/bundles/c432b11780c654d94c52ef165e48da69c34ee593dee3e8fbce8a1b7a3361b105/">MORE</a>

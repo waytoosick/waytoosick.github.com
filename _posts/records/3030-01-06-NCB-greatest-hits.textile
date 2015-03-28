@@ -4,6 +4,7 @@
   permalink: records/ncb-greatest-hits
   categories: [ normal ]
   postimg: ncb-greatest-hits.jpg
-  chill_link: https://soundcloud.com/waytoosick/sets/ncb-friends-greatest-hits
+  chill_link: /records/ncb-greatest-hits
 ---
 
+<href="https://soundcloud.com/waytoosick/sets/ncb-friends-greatest-hits">MORE</a>

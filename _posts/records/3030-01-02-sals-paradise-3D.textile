@@ -4,7 +4,9 @@
   permalink: records/sals-paradise-3d
   categories: [ featured ]
   postimg: sals-paradise-3d.jpg
-  chill_link: http://www.amazon.com/Sals-Paradise/dp/B003JV4DYG
+  chill_link: /records/sals-paradise-3d
 ---
 
 This is an article blog entry.
+
+<a href="http://www.amazon.com/Sals-Paradise/dp/B003JV4DYG">MORE</a>
