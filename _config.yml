@@ -1,9 +1,6 @@
-server: true
 permalink: / 
-auto: true
-server_port: 4040
-baseurl: /
-markdown: maruku
+port: 4040
+markdown: kramdown
 excerpt_separator: haikus
 
 
